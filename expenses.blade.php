@@ -8016,8 +8016,6 @@
     setupSearch('input-search-TRUE-Region', 'checkbox-list-true');
 </script>
 
-
-refcode: [],
 <script>
     let previousChecked = { 
     refcode: [],
